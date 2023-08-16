@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background: url(../../html/fondo.jpg) no-repeat center top;
+    background: url(../fondo.jpg) no-repeat center top;
     background-size: cover;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     height: 100vh;
