@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background: url(../img/fondo.jpg) no-repeat center top;
+    background: url(../../html/fondo.jpg) no-repeat center top;
     background-size: cover;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     height: 100vh;
@@ -10,7 +10,7 @@ body{
 
 .login-box{
     width: 320px;
-    height: 420;
+    height: 420px;
     background: black;
     color: #fff;
     top: 50%;
@@ -21,8 +21,8 @@ body{
     padding: 70px 30px;
 }
 .login-box .avatar{
-    width: 200;
-    height: 200;
+    width: 60hv;
+    height: 60hv;
     border-radius: 50%;
     position: absolute;
     top: -75px;
